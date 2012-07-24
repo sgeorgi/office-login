@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["sgeorgi@sgeorgi.de"]
   gem.description   = %q{CLI tool to log-in to the office's network via headless browser}
   gem.summary       = %q{...}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/sgeorgi/office-login"
 
   gem.add_dependency 'watir-webdriver'
   gem.add_dependency 'headless'
